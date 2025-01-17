@@ -1,5 +1,5 @@
 
-# ForoHub API - Proyecto con Java y Spring Boot - Alura Latam
+# ForoHub API - Proyecto con Java y Spring Boot
 
 ## Descripción
 **ForoHub API** es un proyecto desarrollado en **Java** utilizando el framework **Spring Boot**, que proporciona una API REST para la gestión de un foro. Este sistema permite a los usuarios autenticados crear, listar, actualizar y eliminar tópicos de discusión. Además, incluye autenticación mediante **JWT (JSON Web Tokens)** para garantizar la seguridad.
